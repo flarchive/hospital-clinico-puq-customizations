@@ -1,0 +1,390 @@
+{
+    "tag": "div",
+    "attrs": {
+        "className": "ExtensionPage hospital-clinico-puq-customizations-Page"
+    },
+    "children": [
+        {
+            "tag": "[",
+            "children": [
+                {
+                    "tag": "div",
+                    "attrs": {
+                        "className": "ExtensionPage-header"
+                    },
+                    "children": [
+                        {
+                            "tag": "div",
+                            "attrs": {
+                                "className": "container"
+                            },
+                            "children": [
+                                {
+                                    "tag": "div",
+                                    "attrs": {
+                                        "className": "ExtensionTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "tag": "span",
+                                            "attrs": {
+                                                "className": "ExtensionIcon",
+                                                "style": {
+                                                    "name": "fas fa-user-clock",
+                                                    "backgroundColor": "#238c59",
+                                                    "color": "#fff"
+                                                }
+                                            },
+                                            "children": [
+                                                {
+                                                    "tag": "i",
+                                                    "attrs": {
+                                                        "aria-hidden": "true",
+                                                        "className": "icon fas fa-user-clock"
+                                                    },
+                                                    "children": [],
+                                                    "dom": {},
+                                                    "state": {}
+                                                }
+                                            ],
+                                            "dom": {},
+                                            "state": {}
+                                        },
+                                        {
+                                            "tag": "div",
+                                            "attrs": {
+                                                "className": "ExtensionName"
+                                            },
+                                            "children": [
+                                                {
+                                                    "tag": "h2",
+                                                    "attrs": {},
+                                                    "text": "Customizaciones",
+                                                    "dom": {},
+                                                    "state": {}
+                                                }
+                                            ],
+                                            "dom": {},
+                                            "state": {}
+                                        },
+                                        {
+                                            "tag": "div",
+                                            "attrs": {
+                                                "className": "ExtensionPage-headerTopItems"
+                                            },
+                                            "children": [
+                                                {
+                                                    "tag": "ul",
+                                                    "attrs": {},
+                                                    "children": [
+                                                        {
+                                                            "tag": "li",
+                                                            "key": "version",
+                                                            "attrs": {
+                                                                "className": "item-version",
+                                                                "key": "version"
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "tag": "span",
+                                                                    "attrs": {
+                                                                        "className": "ExtensionVersion"
+                                                                    },
+                                                                    "text": "1.0.1",
+                                                                    "dom": {},
+                                                                    "state": {}
+                                                                }
+                                                            ],
+                                                            "dom": {},
+                                                            "state": {}
+                                                        }
+                                                    ],
+                                                    "dom": {},
+                                                    "state": {}
+                                                }
+                                            ],
+                                            "dom": {},
+                                            "state": {}
+                                        }
+                                    ],
+                                    "dom": {},
+                                    "state": {}
+                                },
+                                {
+                                    "tag": "div",
+                                    "attrs": {
+                                        "className": "helpText"
+                                    },
+                                    "text": "Customizaciones varias",
+                                    "dom": {},
+                                    "state": {}
+                                },
+                                {
+                                    "tag": "div",
+                                    "attrs": {
+                                        "className": "ExtensionPage-headerItems"
+                                    },
+                                    "children": [
+                                        {
+                                            "attrs": {
+                                                "state": true,
+                                                "loading": false,
+                                                "className": "Checkbox--switch"
+                                            },
+                                            "children": [
+                                                "Enabled"
+                                            ],
+                                            "dom": {},
+                                            "state": {
+                                                "element": {},
+                                                "attrs": {
+                                                    "state": true,
+                                                    "loading": false,
+                                                    "className": "Checkbox--switch"
+                                                }
+                                            },
+                                            "instance": {
+                                                "tag": "label",
+                                                "attrs": {
+                                                    "className": "Checkbox on Checkbox--switch"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "tag": "input",
+                                                        "attrs": {
+                                                            "type": "checkbox",
+                                                            "checked": true
+                                                        },
+                                                        "children": [],
+                                                        "dom": {},
+                                                        "state": {},
+                                                        "events": {}
+                                                    },
+                                                    {
+                                                        "tag": "div",
+                                                        "attrs": {
+                                                            "className": "Checkbox-display",
+                                                            "aria-hidden": "true"
+                                                        },
+                                                        "children": [
+                                                            null
+                                                        ],
+                                                        "dom": {},
+                                                        "state": {}
+                                                    },
+                                                    {
+                                                        "tag": "[",
+                                                        "children": [
+                                                            {
+                                                                "tag": "#",
+                                                                "children": "Enabled",
+                                                                "dom": {},
+                                                                "state": {}
+                                                            }
+                                                        ],
+                                                        "dom": {},
+                                                        "domSize": 1,
+                                                        "state": {}
+                                                    }
+                                                ],
+                                                "dom": {},
+                                                "state": {}
+                                            }
+                                        },
+                                        {
+                                            "tag": "aside",
+                                            "attrs": {
+                                                "className": "ExtensionInfo"
+                                            },
+                                            "children": [
+                                                {
+                                                    "tag": "ul",
+                                                    "attrs": {},
+                                                    "children": [
+                                                        {
+                                                            "tag": "li",
+                                                            "key": "readme",
+                                                            "attrs": {
+                                                                "className": "item-readme",
+                                                                "key": "readme"
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "attrs": {
+                                                                        "icon": "fab fa-readme",
+                                                                        "className": "Button Button--text"
+                                                                    },
+                                                                    "children": [
+                                                                        "README"
+                                                                    ],
+                                                                    "dom": {},
+                                                                    "state": {
+                                                                        "element": {},
+                                                                        "attrs": {
+                                                                            "icon": "fab fa-readme",
+                                                                            "className": "Button Button--text"
+                                                                        }
+                                                                    },
+                                                                    "instance": {
+                                                                        "tag": "button",
+                                                                        "attrs": {
+                                                                            "className": "Button Button--text hasIcon",
+                                                                            "type": "button"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "tag": "i",
+                                                                                "attrs": {
+                                                                                    "aria-hidden": "true",
+                                                                                    "className": "icon fab fa-readme Button-icon"
+                                                                                },
+                                                                                "children": [],
+                                                                                "dom": {},
+                                                                                "state": {}
+                                                                            },
+                                                                            {
+                                                                                "tag": "span",
+                                                                                "attrs": {
+                                                                                    "className": "Button-label"
+                                                                                },
+                                                                                "text": "README",
+                                                                                "dom": {},
+                                                                                "state": {}
+                                                                            },
+                                                                            null
+                                                                        ],
+                                                                        "dom": {},
+                                                                        "state": {},
+                                                                        "events": {}
+                                                                    }
+                                                                }
+                                                            ],
+                                                            "dom": {},
+                                                            "state": {}
+                                                        }
+                                                    ],
+                                                    "dom": {},
+                                                    "state": {}
+                                                }
+                                            ],
+                                            "dom": {},
+                                            "state": {}
+                                        }
+                                    ],
+                                    "dom": {},
+                                    "state": {}
+                                }
+                            ],
+                            "dom": {},
+                            "state": {}
+                        }
+                    ],
+                    "dom": {},
+                    "state": {}
+                }
+            ],
+            "dom": {},
+            "domSize": 1,
+            "state": {}
+        },
+        {
+            "tag": "div",
+            "attrs": {
+                "className": "ExtensionPage-body"
+            },
+            "children": [
+                {
+                    "tag": "div",
+                    "attrs": {
+                        "className": "ExtensionPage-settings"
+                    },
+                    "children": [
+                        {
+                            "tag": "div",
+                            "attrs": {
+                                "className": "container"
+                            },
+                            "children": [
+                                {
+                                    "tag": "h3",
+                                    "attrs": {
+                                        "className": "ExtensionPage-subHeader"
+                                    },
+                                    "text": "This extension has no settings.",
+                                    "dom": {},
+                                    "state": {}
+                                }
+                            ],
+                            "dom": {},
+                            "state": {}
+                        }
+                    ],
+                    "dom": {},
+                    "state": {}
+                },
+                {
+                    "tag": "div",
+                    "attrs": {
+                        "className": "ExtensionPage-permissions"
+                    },
+                    "children": [
+                        {
+                            "tag": "div",
+                            "attrs": {
+                                "className": "ExtensionPage-permissions-header"
+                            },
+                            "children": [
+                                {
+                                    "tag": "div",
+                                    "attrs": {
+                                        "className": "container"
+                                    },
+                                    "children": [
+                                        {
+                                            "tag": "h2",
+                                            "attrs": {
+                                                "className": "ExtensionTitle"
+                                            },
+                                            "text": "Permissions",
+                                            "dom": {},
+                                            "state": {}
+                                        }
+                                    ],
+                                    "dom": {},
+                                    "state": {}
+                                }
+                            ],
+                            "dom": {},
+                            "state": {}
+                        },
+                        {
+                            "tag": "div",
+                            "attrs": {
+                                "className": "container"
+                            },
+                            "children": [
+                                {
+                                    "tag": "h3",
+                                    "attrs": {
+                                        "className": "ExtensionPage-subHeader"
+                                    },
+                                    "text": "This extension has no permissions.",
+                                    "dom": {},
+                                    "state": {}
+                                }
+                            ],
+                            "dom": {},
+                            "state": {}
+                        }
+                    ],
+                    "dom": {},
+                    "state": {}
+                }
+            ],
+            "dom": {},
+            "state": {}
+        }
+    ],
+    "dom": {},
+    "state": {}
+}
