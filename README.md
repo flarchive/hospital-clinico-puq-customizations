@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of hospital-clinico-puq/customizations.** Not for installation: use [Packagist](https://packagist.org/packages/hospital-clinico-puq/customizations) or the [upstream repository](https://github.com/Wence95/customizations).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/hospital-clinico-puq-customizations/tree/archive/v1.0.3) · Flarum: `^1.0.0`
+**4** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/hospital-clinico-puq-customizations/tree/archive/v1.0.3) · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-12-18 | `^1.0.0` | [Browse](https://github.com/flarchive/hospital-clinico-puq-customizations/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-12-19 | `^1.0.0` | [Browse](https://github.com/flarchive/hospital-clinico-puq-customizations/tree/archive/v1.0.1) |
+| `1.0.2` | 2024-12-19 | `^1.0.0` | [Browse](https://github.com/flarchive/hospital-clinico-puq-customizations/tree/archive/v1.0.2) |
+| `1.0.3` | 2024-12-19 | `^1.0.0` | [Browse](https://github.com/flarchive/hospital-clinico-puq-customizations/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/hospital-clinico-puq-customizations.json](https://github.com/flarchive/archive-index/blob/main/packages/hospital-clinico-puq-customizations.json)
 
